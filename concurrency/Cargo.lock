@@ -7,5 +7,9 @@ name = "message-parsing"
 version = "0.1.0"
 
 [[package]]
+name = "share-state-concurrency"
+version = "0.1.0"
+
+[[package]]
 name = "threads"
 version = "0.1.0"
