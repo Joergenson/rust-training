@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+    "characteristics",
+    "trait-objects",
+    "oop-design-pattern"
+]
