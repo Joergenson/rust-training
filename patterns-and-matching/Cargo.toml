@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+    "places-to-use",
+    "refutability",
+    "syntax",
+]
