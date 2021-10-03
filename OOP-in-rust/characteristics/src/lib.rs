@@ -1,4 +1,5 @@
-pub struct AveragedCollection { // Encapsulated so the values are only available through the implemented methods
+pub struct AveragedCollection {
+    // Encapsulated so the values are only available through the implemented methods
     list: Vec<i32>,
     average: f64,
 }
@@ -30,6 +31,5 @@ impl AveragedCollection {
     }
 }
 
-
-// no inheritance in rust 
+// no inheritance in rust
 // ust has bounded parametric polymorphism. Meaning it uses generics to abstract over types and trait bounds to place constraints on the functiosn the types must provide.

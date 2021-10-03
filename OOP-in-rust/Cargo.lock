@@ -7,7 +7,7 @@ name = "characteristics"
 version = "0.1.0"
 
 [[package]]
-name = "oop-design-pattern"
+name = "oop_design_pattern"
 version = "0.1.0"
 
 [[package]]

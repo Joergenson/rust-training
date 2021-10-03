@@ -3,5 +3,5 @@
 members = [
     "characteristics",
     "trait-objects",
-    "oop-design-pattern"
+    "oop-design-pattern",
 ]
